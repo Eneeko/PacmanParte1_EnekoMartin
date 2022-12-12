@@ -15,4 +15,3 @@ Con la tecla Q y con la tecla ESC el programa deja de ejecutarse y se cierra la 
 
 
 
-![PacMan 1ra Parte](https://gyazo.com/47be1ed621e9c68255a71f4017881333)
